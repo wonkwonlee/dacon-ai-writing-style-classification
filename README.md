@@ -5,6 +5,8 @@
 
 지난 2020년 10월 29일부터 2020년 12월 4일까지 진행된 [DACON 소설 작가 분류 AI 경진대회](https://dacon.io/competitions/official/235670/overview/description/)를 바탕으로 진행
 
+[최종 발표 PPT](submission/nlp_writing_style_presentation.pdf)
+
 ## 소설 작가 분류 데이터 시각화
 #### 작가 별 최다 사용 단어 상위 10개 (불용어 포함)
 ![most_words_w_stopword](./eda/most_words_w_stopword.png)
