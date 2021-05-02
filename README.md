@@ -4,11 +4,14 @@
 
 지난 2020년 10월 29일부터 2020년 12월 4일까지 진행된 [DACON 소설 작가 분류 AI 경진대회](https://dacon.io/competitions/official/235670/overview/description/)를 바탕으로 진행
 
+소설 속 문장뭉치 분석을 통해 소설 작가를 예측한다. 
+
 ## 프로젝트 타임라인
 ![timeline](eda/timeline.png)
 
 [최종 프레젠테이션 PDF](submission/nlp_writing_style_presentation.pdf)
-    
+ 
+   
 ## 소설 작가 분류 데이터 시각화
 ### 작가 별 최다 사용 단어 상위 10개 (불용어 포함)
 ![most_words_w_stopword](./eda/most_words_w_stopword.png)
