@@ -6,7 +6,7 @@
 
 소설 속 문장뭉치 분석을 통해 소설 작가를 예측한다. 
 
-Collaborators: [Hongbeom Kim](https://github.com/billkim418), [Heewon Kwon](https://github.com/HeewonKwak), [Woomi Sun](https://github.com/woom2), Hyewon Jung
+Collaborators: [Hongbeom Kim](https://github.com/billkim418), [Heewon Kwak](https://github.com/HeewonKwak), [Woomi Sun](https://github.com/woom2), Hyewon Jung
 
 
 ## 프로젝트 타임라인
